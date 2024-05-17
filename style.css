@@ -1,0 +1,273 @@
+body
+{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+.t1{
+
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 100vh;
+    display: flex;
+    font-family: "Jacquard 24", system-ui;
+    background-size: 100%;
+}
+.t2
+{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 100vh;
+    display: flex;
+      font-family: "Jacquard 24", system-ui;
+       background-size: 100%;
+}
+.t3
+{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 100vh;
+      font-family: "Jacquard 24", system-ui;
+       background-size: 100%;
+       align-items: center;
+    justify-content: center;
+}
+.t4
+{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 300vh;
+      font-family: "Jacquard 24", system-ui;
+       background-size: 100%;
+}
+.t5
+{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 150vh;
+      font-family: "Jacquard 24", system-ui;
+       background-size: 100%;
+}
+.t6
+{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_nebo_tochki_83482_300x168.jpg);
+    color: white;
+    height: 200vh;
+      font-family: "Jacquard 24", system-ui;
+       background-size: 100%;
+}
+.emp
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp1
+{
+
+}
+.emp2
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp3
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp4
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp5
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp6
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 30vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp7
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 10vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp8
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp9
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp10
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp11
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 50vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp12
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp13
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;  
+}
+.iii
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.jjj
+{
+    color: white;
+    height: 50vh;
+    display: flex;
+}
+.lll
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+h1
+{
+    line-height: 120px;
+    margin:   0 100px;
+    font-size: 9rem;
+    width: 70%;
+    display: flex;
+    pading: 150px;
+    font-size: 9rem;
+     align-items: center;
+
+}
+h2
+{
+   font-size: 40px;
+    margin: 200px 0 0 0;
+    font-weight: 400;
+}
+h3
+{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 400;
+     font-size: 5rem;
+}
+h6
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+    font-size: 4rem;
+}
+h5
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+.korobka{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.photo{
+    width: 70%;
+    rotate: -5deg;
+    box-shadow: 20px 20px 20px 0 black;
+}
+.prizrak{
+    z-index: 5;
+    top: 500px;
+    right:300px;
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   background-color: white;
+    box-shadow: 0 0 300px 100px white;
+}
+h4
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+     font-size: 6rem;
+}
